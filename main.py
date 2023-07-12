@@ -1,5 +1,3 @@
-# DEMO file
-
 #   long(arr, x, y, i, b, m)
 def long(arr, a, b, c, d, m):
     if min(a,c) != a:
